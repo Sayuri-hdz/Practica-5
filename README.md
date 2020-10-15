@@ -120,5 +120,4 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+Para la practica 5 fue necesario descargar un compilador de mplab x que nos ayuda a utilizar algunas de las herramientas de microchip. Lo descargamos en la respectiva pagina mostada en clase. Durante esta actividad se me hizo complicado entender el codigo, honestamente sin la ayuda del profesor no hubiera sido posible comprender y hacer esta practica. Aun me quedan algunas dudas pero estoy segura que durante vaya pasando el semestre se iran resolviendo. 
